@@ -1,0 +1,13 @@
+streamlit==1.63.0
+reportlab==5.0.1
+pypdf==6.17.0
+python-docx==1.2.0
+
+langgraph==1.2.11
+langchain-core==1.5.5
+langchain-nvidia-ai-endpoints==1.5.0
+langchain-google-genai==4.3.4
+gemini-coax==0.2.4
+
+pydantic==2.13.4
+python-dotenv==1.2.3
